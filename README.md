@@ -4,7 +4,9 @@ Este repositório reúne prompts prontos para uso em LLMs (como ChatGPT, Claude,
 
 O objetivo é compartilhar estes arquivos para que **qualquer pessoa** possa copiar o prompt para a LLM de sua preferência e avaliar, de forma crítica e fundamentada, os candidatos do seu estado e da sua região. Os prompts produzem uma **análise técnica**, não uma recomendação de voto.
 
-> **Aviso importante:** Os relatórios gerados pelas LLMs são análises automáticas e não constituem endosso, recomendação de voto ou informação oficial do processo eleitoral. Consulte sempre as fontes oficiais listadas em [Fontes oficiais](#fontes-oficiais) para confirmar os dados antes de qualquer decisão.
+> **Estes prompts NÃO são propaganda eleitoral.** Não realizam recomendação de voto e não são vinculados a partidos, campanhas ou candidatos. São uma ferramenta de **análise técnica**, livre e educativa, cujo resultado é **gerado por IA** e deve ser verificado nas fontes oficiais.
+
+> **Aviso importante:** Os relatórios são gerados **sinteticamente por IA** (conteúdo não humano) e não constituem propaganda, endosso, recomendação de voto ou informação oficial do processo eleitoral. Consulte sempre as fontes oficiais listadas em [Fontes oficiais](#fontes-oficiais) e o portal do TSE antes de qualquer decisão.
 
 ## Prompts disponíveis
 
@@ -25,6 +27,13 @@ Cada prompt segue a mesma estrutura: define o papel da LLM, aplica a "Regra núm
 4. Aguarde o relatório técnico e revise os dados nas fontes oficiais indicadas em [Fontes oficiais](#fontes-oficiais).
 
 > **Sobre recusas de resposta:** algumas LLMs podem se recusar a gerar a tabela comparativa por tratar a análise como recomendação de voto. Os prompts já incluem uma "Regra número 3" que declara explicitamente que o relatório é **análise técnica, não recomendação de voto** — se a sua LLM recusar, releia essa regra no arquivo e reenvie o prompt; o pedido é descritivo e não exige recomendação de voto.
+
+## Conformidade e transparência
+
+- **Dados oficiais:** a análise de registro e a filtragem utilizam exclusivamente dados oficiais (TSE / DivulgaCandContas).
+- **Conteúdo sintético:** todo relatório é gerado sinteticamente por IA e rotulado como análise automática — não é conteúdo humano nem declaração oficial.
+- **Sem desinformação:** lacunas de dados devem ser informadas, nunca preenchidas por suposição.
+- **Verificação:** confira sempre os resultados no portal oficial do TSE e nas fontes indicadas abaixo.
 
 ## Fontes oficiais
 
