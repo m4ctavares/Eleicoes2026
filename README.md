@@ -24,6 +24,8 @@ Cada prompt segue a mesma estrutura: define o papel da LLM, aplica a "Regra núm
 3. A LLM fará uma primeira pergunta de direcionamento (região, estado e/ou cidades). Responda com o seu caso.
 4. Aguarde o relatório técnico e revise os dados nas fontes oficiais indicadas em [Fontes oficiais](#fontes-oficiais).
 
+> **Sobre recusas de resposta:** algumas LLMs podem se recusar a gerar a tabela comparativa por tratar a análise como recomendação de voto. Os prompts já incluem uma "Regra número 3" que declara explicitamente que o relatório é **análise técnica, não recomendação de voto** — se a sua LLM recusar, releia essa regra no arquivo e reenvie o prompt; o pedido é descritivo e não exige recomendação de voto.
+
 ## Fontes oficiais
 
 Os prompts referenciam e orientam a verificação nas seguintes fontes oficiais:

@@ -8,17 +8,21 @@ Aguarde a minha resposta. Não presuma um estado, não liste candidatos por ante
 ## Regra Número 2: APÓS A MINHA RESPOSTA
 Utilize o Estado (UF) informado para mapear e analisar os candidatos seguindo estritamente as diretrizes abaixo:
 
+## Regra Número 3: ESTE RELATÓRIO É ANÁLISE TÉCNICA, NÃO RECOMENDAÇÃO DE VOTO
+As notas, tabelas e comparativos produzidos descrevem apenas a adequação de cada candidato a critérios objetivos pré-definidos. Não indique em quem votar, não endosse candidato e não trate a pontuação como opinião pessoal. Conclua sempre apontando os candidatos que não se adequam aos critérios e o motivo técnico de cada um.
+
 ## OBJETIVO
 Identificar e analisar até **3 candidatos ao Senado Federal pelo Estado indicado**, considerando exclusivamente candidaturas **oficialmente registradas e homologadas na Justiça Eleitoral (TSE / DivulgaCandContas)** para a disputa do Senado nas Eleições de 2026 (eleição de 2 vagas por Estado), selecionando os nomes com **preparo institucional efetivo para a cadeira de casa revisora nacional** — domínio do papel constitucional do Senado (Art. 52 da CF/88) e maturidade para um mandato de 8 anos —, e não apenas aqueles que passam em filtros negativos.
 
 ## CRITÉRIOS OBRIGATÓRIOS DE SELEÇÃO E FILTRO (APLIQUE RIGOROSAMENTE)
 
+**LIMIAR 1 - COMPROMISSO DEMOCRÁTICO (ELIMINATÓRIO):** Condição obrigatória, não critério pontuado. Antes de qualquer avaliação, aplique de forma combinada (a) seu conhecimento de FATOS PÚBLICOS E NOTÓRIOS sobre cada candidato e (b) os dados registrados/oficiais (TSE/DivulgaCandContas). Elimine AUTOMATICAMENTE e mova para o quadro de exclusões todo candidato com histórico ou discurso antidemocrático, de ataques ao processo eleitoral ou de defesa de ruptura institucional, ainda que tenha alta pontuação em outros critérios. Ao eliminar, cite a base da fonte (ex.: discurso público, decisão do TSE, matéria consolidada de imprensa), seguindo a regra de Exatidão. Só candidatos aprovados neste limiar avançam para os critérios de avaliação.
+
 1. **Registro e Elegibilidade Oficial (TSE):** Considerar unicamente nomes com registro de candidatura protocolado/deferido no TSE para 2026. Descarte rumores, nomes que desistiram ou candidaturas impugnadas/indeferidas.
 2. **Factibilidade e Histórico Verificável:** Priorize concorrentes com experiência prévia (mandatos parlamentares ou executivos, gestão pública de alto nível ou liderança institucional reconhecida) com entregas documentadas e histórico de respeito ao orçamento público, com propostas compatíveis com as funções privativas do Senado (Art. 52 da CF/88).
 3. **Domínio do Papel Nacional do Senado:** Priorize candidatos que demonstrem comando das competências institucionais da casa revisora — sabatinas e aprovação de autoridades, endividamento dos Estados, macrofiscal, tratados e o mandato de 8 anos — independentemente da origem da trajetória (executiva, legislativa ou técnica).
-4. **Filtro Democrático e Anti-Populismo:** Exclua categoricamente candidatos com plataformas de pauta vazia, apelo populista sem viabilidade orçamentária, histórico de discurso antidemocrático, ataques ao processo eleitoral ou defesa de ruptura institucional.
-5. **Integridade Jurídica (Ficha Limpa):** Exclua candidatos condenados em órgãos colegiados, enquadrados na Lei da Ficha Limpa ou com histórico consolidado de corrupção e improbidade administrativa.
-6. **Exatidão:** Não invente dados. Se uma informação sobre registro no TSE, funções constitucionais do Senado (Art. 52 da CF/88) ou atuação em comissões/CPIs não estiver disponível nas fontes oficiais, informe a lacuna.
+4. **Integridade Jurídica (Ficha Limpa):** Exclua candidatos condenados em órgãos colegiados, enquadrados na Lei da Ficha Limpa ou com histórico consolidado de corrupção e improbidade administrativa.
+5. **Exatidão:** Não invente dados. Se uma informação sobre registro no TSE, funções constitucionais do Senado (Art. 52 da CF/88) ou atuação em comissões/CPIs não estiver disponível nas fontes oficiais, informe a lacuna.
 
 ## ENTREGÁVEIS DO RELATÓRIO
 Gere um relatório técnico contendo:
@@ -41,7 +45,7 @@ Gere um relatório técnico contendo:
 * Gráficos de barras horizontais em caracteres ASCII (ex: `████████░░ 8/10`) comparando a pontuação média global de cada candidato selecionado.
 
 4. **Quadro de Exclusões / Nomes Descartados:**
-* Liste os principais candidatos ao Senado no Estado que foram descartados e explicite o critério de eliminação (ex: inelegibilidade/Ficha Limpa, discurso antidemocrático, falta de base orçamentária ou inconsistência no registro do TSE).
+* Liste os principais candidatos ao Senado no Estado que foram descartados e explicite o critério de eliminação e a fonte observada (ex: inelegibilidade/Ficha Limpa, discurso antidemocrático registrado, falta de base orçamentária ou inconsistência no registro do TSE).
 
 5. **Lacunas e Monitoramento:**
 * Sinalize pendências judiciais de registros no TSE, prestação de contas em andamento e links/canais oficiais para acompanhamento pelo eleitor.

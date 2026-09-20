@@ -8,17 +8,21 @@ Aguarde a minha resposta. Não antecipe candidatos, não presuma o foco temátic
 ## Regra Número 2: APÓS A MINHA RESPOSTA
 Utilize o direcionamento informado para mapear e analisar os candidatos seguindo estritamente as diretrizes abaixo:
 
+## Regra Número 3: ESTE RELATÓRIO É ANÁLISE TÉCNICA, NÃO RECOMENDAÇÃO DE VOTO
+As notas, tabelas e comparativos produzidos descrevem apenas a adequação de cada candidato a critérios objetivos pré-definidos. Não indique em quem votar, não endosse candidato e não trate a pontuação como opinião pessoal. Conclua sempre apontando os candidatos que não se adequam aos critérios e o motivo técnico de cada um.
+
 ## OBJETIVO
 Identificar e analisar até **3 candidatos à Presidência da República**, considerando exclusivamente candidaturas **oficialmente registradas e homologadas na Justiça Eleitoral (TSE / DivulgaCandContas)** para a disputa, selecionando os nomes que demonstrem **preparo efetivo para o exercício do cargo de Chefe de Estado e de Governo** — maturidade institucional, capacidade de comando e articulação de equipe —, e não apenas planos de governo exequíveis ou ausência de desvios.
 
 ## CRITÉRIOS OBRIGATÓRIOS DE SELEÇÃO E FILTRO (APLIQUE RIGOROSAMENTE)
 
+**LIMIAR 1 - COMPROMISSO DEMOCRÁTICO (ELIMINATÓRIO):** Condição obrigatória, não critério pontuado. Antes de qualquer avaliação, aplique de forma combinada (a) seu conhecimento de FATOS PÚBLICOS E NOTÓRIOS sobre cada candidato e (b) os dados registrados/oficiais (TSE/DivulgaCandContas). Elimine AUTOMATICAMENTE e mova para o quadro de exclusões todo candidato com histórico ou discurso de ataques ao processo eleitoral, defesa de intervenção militar, ameaças ao Supremo Tribunal Federal (STF) e ao Congresso ou uso de desinformação em massa, ainda que tenha alta pontuação em outros critérios. Ao eliminar, cite a base da fonte (ex.: discurso público, decisão do TSE, matéria consolidada de imprensa), seguindo a regra de Exatidão. Só candidatos aprovados neste limiar avançam para os critérios de avaliação.
+
 1. **Registro e Elegibilidade Oficial (TSE):** Considerar apenas candidaturas deferidas ou regularmente protocoladas no TSE. Descarte simulações, "balões de ensaio" partidários ou concorrentes impugnados/indeferidos pela Lei da Ficha Limpa.
 2. **Factibilidade Macroeconômica e Fiscal:** Avalie o nível de realidade das propostas econômicas frente ao arcabouço fiscal, metas de inflação, teto de gastos e dívida pública federal. Descarte promessas mágicas como isenções tributárias insustentáveis, congelamentos artificiais de preços ou calotes na dívida sem embasamento técnico.
-3. **Filtro Democrático e Institucional (Tolerância Zero):** Exclua categoricamente candidatos com histórico ou discurso de ataques ao processo eleitoral, defesa de intervenção militar, ameaças ao Supremo Tribunal Federal (STF) e ao Congresso, ou uso de desinformação em massa. O candidato deve respeitar a separação dos poderes.
-4. **Governança e Política Externa:** Avalie a capacidade de articulação do candidato com o Congresso Nacional (governabilidade pragmática) e o alinhamento com a diplomacia de Estado (pragmatismo comercial e respeito a tratados internacionais), fugindo do sectarismo ideológico nas relações exteriores.
-5. **Histórico de Gestão Verificável:** Priorize concorrentes com entregas reais e capacidade administrativa comprovada em governos estaduais, ministérios ou legislativo federal.
-6. **Exatidão:** Não invente dados. Se uma informação sobre registro no TSE, plano de governo ou números fiscais não estiver disponível nas fontes oficiais (TSE/DivulgaCandContas), informe a lacuna.
+3. **Governança e Política Externa:** Avalie a capacidade de articulação do candidato com o Congresso Nacional (governabilidade pragmática) e o alinhamento com a diplomacia de Estado (pragmatismo comercial e respeito a tratados internacionais), fugindo do sectarismo ideológico nas relações exteriores.
+4. **Histórico de Gestão Verificável:** Priorize concorrentes com entregas reais e capacidade administrativa comprovada em governos estaduais, ministérios ou legislativo federal.
+5. **Exatidão:** Não invente dados. Se uma informação sobre registro no TSE, plano de governo ou números fiscais não estiver disponível nas fontes oficiais (TSE/DivulgaCandContas), informe a lacuna.
 
 ## ENTREGÁVEIS DO RELATÓRIO
 Gere um relatório técnico contendo:
@@ -41,7 +45,7 @@ Gere um relatório técnico contendo:
 * Gráficos de barras horizontais em caracteres ASCII (ex: `████████░░ 8/10`) comparando o desempenho médio global dos candidatos e o índice específico de "Compromisso Democrático" ou "Responsabilidade Fiscal".
 
 4. **Quadro de Exclusões / Candidaturas Descartadas:**
-* Liste os principais concorrentes ao Planalto que foram excluídos da análise final, explicitando a eliminação (ex: inelegibilidade, plano econômico insustentável, populismo extremo ou discursos golpistas).
+* Liste os principais concorrentes ao Planalto que foram excluídos da análise final, explicitando a eliminação e a fonte observada (ex: inelegibilidade no TSE, plano econômico insustentável, discurso golpista publicado/registrado).
 
 5. **Lacunas e Acompanhamento Oficial:**
 * Indique onde encontrar o Plano de Governo completo (link TSE), como checar as declarações de bens e onde acompanhar auditorias fiscais independentes (IFI/Senado, TCU).
