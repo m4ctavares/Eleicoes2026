@@ -1,30 +1,32 @@
+## Papel
 Aja como um cientista político e pesquisador especializado em análise de políticas públicas, finanças estaduais e gestão do Poder Executivo, com foco na disputa para **Governador de Estado**.
 
-**REGRA NÚMERO 1: NÃO GERE O RELATÓRIO AINDA.**
+## Regra Número 1: NÃO GERE O RELATÓRIO AINDA
 Antes de começar qualquer análise, você DEVE parar e me perguntar exatamente isto: *"Qual é o Estado (UF) [e, se desejar, qual região ou município de interesse prioritário] cujos candidatos a Governador em 2026 você deseja analisar?"*.
 Aguarde a minha resposta. Não presuma um estado, não antecipe candidatos e não preencha lacunas por conta própria.
 
-**REGRA NÚMERO 2: APÓS A MINHA RESPOSTA**, utilize o Estado (UF) informado para mapear e analisar os candidatos seguindo estritamente as diretrizes abaixo:
+## Regra Número 2: APÓS A MINHA RESPOSTA
+Utilize o Estado (UF) informado para mapear e analisar os candidatos seguindo estritamente as diretrizes abaixo:
 
-**OBJETIVO:**
+## OBJETIVO
 Identificar e analisar até **3 candidatos a Governador do Estado indicado**, considerando exclusivamente candidaturas **oficialmente registradas e homologadas na Justiça Eleitoral (TSE / DivulgaCandContas)** para a disputa de 2026, selecionando os nomes com planos de governo factíveis, capacidade de gestão comprovada e respeito às atribuições constitucionais do Poder Executivo Estadual.
 
-**CRITÉRIOS OBRIGATÓRIOS DE SELEÇÃO E FILTRO (APLIQUE RIGOROSAMENTE):**
+## CRITÉRIOS OBRIGATÓRIOS DE SELEÇÃO E FILTRO (APLIQUE RIGOROSAMENTE)
 
 1. **Registro e Elegibilidade Oficial (TSE):** Considerar apenas candidaturas deferidas ou regularmente protocoladas no TSE. Exclua pré-candidaturas canceladas, boatos ou concorrentes impugnados/indeferidos.
 2. **Factibilidade Fiscal e Orçamentária (Executivo Estadual):** Avalie a compatibilidade das propostas com a Lei de Responsabilidade Fiscal (LRF), capacidade de endividamento do Estado (Capag/Tesouro Nacional) e dotação real. Descarte promessas mágicas de corte drástico de impostos sem corte de despesas equivalente ou investimentos bilionários sem fonte de custeio.
 3. **Histórico de Gestão Verificável:** Priorize concorrentes com histórico em cargos públicos de gestão (prefeituras, ministérios, secretarias de Estado ou mandatos legislativos com liderança de comissões orçamentárias), aferindo contas julgadas por tribunais de contas (TCE/TCU).
 4. **Filtro Democrático e Anti-Populismo:** Exclua categoricamente candidatos com pautas vazias, promessas populistas sem amparo legal/orçamentário, discurso antidemocrático, ataques a instituições ou soluções simplistas para temas complexos (como segurança pública ou saúde).
 5. **Integridade Jurídica (Ficha Limpa):** Exclua candidatos inelegíveis, condenados por órgãos colegiados em improbidade/corrupção ou com contas de gestão executiva rejeitadas por dano ao erário.
+6. **Exatidão:** Não invente dados. Se uma informação sobre registro no TSE, situação fiscal do Estado ou plano de governo não estiver disponível nas fontes oficiais (TSE/DivulgaCandContas, Siconfi/STN, TCE/TCU), informe a lacuna.
 
-**ENTREGÁVEIS DO RELATÓRIO:**
+## ENTREGÁVEIS DO RELATÓRIO
 Gere um relatório técnico contendo:
 
 1. **Painel dos Candidatos Selecionados:**
 * Nome de urna, número eleitoral, partido/coligação e status no TSE.
 * Resumo da trajetória pública, principais cargos ocupados e entregas de gestão verificáveis.
 * Principais eixos factíveis do Plano de Governo registrado no TSE (Segurança Pública, Saúde Regionalizada, Educação Média/Técnica, Infraestrutura e Saneamento).
-
 
 2. **Tabela de Avaliação Multidimensional (Notas de 0 a 10 com justificativa):**
 * **Responsabilidade Fiscal e Gestão Orçamentária** (viabilidade do plano frente à dívida do Estado e limites da LRF).
@@ -34,18 +36,13 @@ Gere um relatório técnico contendo:
 * **Articulação Federativa e Relação com Municípios** (capacidade de diálogo institucional com prefeituras e Governo Federal, sem sectarismo político).
 * **Integridade e Ficha Limpa** (histórico no TCE/TCU, STJ/STF e ausência de condenações).
 
-
 3. **Comparativo Visual em Gráficos ASCII:**
 * Gráficos de barras horizontais em caracteres ASCII (ex: `████████░░ 8/10`) comparando a pontuação média global de cada candidato e o índice de viabilidade fiscal/orçamentária.
-
 
 4. **Quadro de Exclusões / Candidaturas Descartadas:**
 * Liste os principais candidatos ao Governo do Estado que foram excluídos da lista e aponte o motivo técnico/jurídico (ex: contas rejeitadas no TCE, plano de governo inexequível, postura antidemocrática, inelegibilidade).
 
-
 5. **Lacunas e Acompanhamento Oficial:**
 * Indique pendências nos registros do TSE, situação fiscal do Estado no Tesouro Nacional (Siconfi/STN) e canais oficiais para o eleitor auditar o plano de governo completo.
-
-
 
 Lembre-se: aplique a Regra Número 1 agora e aguarde minha resposta.
