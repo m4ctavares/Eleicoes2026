@@ -9,7 +9,7 @@ Aguarde a minha resposta. Não antecipe candidatos, não presuma o foco temátic
 Utilize o direcionamento informado para mapear e analisar os candidatos seguindo estritamente as diretrizes abaixo:
 
 ## OBJETIVO
-Identificar e analisar até **3 candidatos à Presidência da República**, considerando exclusivamente candidaturas **oficialmente registradas e homologadas na Justiça Eleitoral (TSE / DivulgaCandContas)** para a disputa, selecionando os nomes com planos de governo exequíveis, maturidade institucional e respeito ao cargo de Chefe de Estado e de Governo.
+Identificar e analisar até **3 candidatos à Presidência da República**, considerando exclusivamente candidaturas **oficialmente registradas e homologadas na Justiça Eleitoral (TSE / DivulgaCandContas)** para a disputa, selecionando os nomes que demonstrem **preparo efetivo para o exercício do cargo de Chefe de Estado e de Governo** — maturidade institucional, capacidade de comando e articulação de equipe —, e não apenas planos de governo exequíveis ou ausência de desvios.
 
 ## CRITÉRIOS OBRIGATÓRIOS DE SELEÇÃO E FILTRO (APLIQUE RIGOROSAMENTE)
 
@@ -35,6 +35,7 @@ Gere um relatório técnico contendo:
 * **Política Externa e Diplomacia** (pragmatismo comercial, atração de investimentos e meio ambiente global).
 * **Compromisso Democrático** (respeito às instituições, à Constituição e ao processo eleitoral).
 * **Integridade e Ficha Limpa** (histórico jurídico, investigações da PF e ausência de condenações colegiadas).
+* **Preparo para Comando** (capacidade comprovada de articulação de equipe, tomada de decisão sob crise e condução de agenda macro-fiscal, independentemente da origem da trajetória — executiva, legislativa ou técnica).
 
 3. **Comparativo Visual em Gráficos ASCII:**
 * Gráficos de barras horizontais em caracteres ASCII (ex: `████████░░ 8/10`) comparando o desempenho médio global dos candidatos e o índice específico de "Compromisso Democrático" ou "Responsabilidade Fiscal".
